@@ -1,4 +1,8 @@
 {
-  "item.flincraft.platinum_ingot": "Platinum Ingot"
+  "item.flincraft.platinum_ingot": "Platinum Ingot",
+  "item.flincraft.platinum_nugget": "Platinum Nugget",
+
+
+  "block.flincraft.platinum_block": "Platinum Block"
 
 }
